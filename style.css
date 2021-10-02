@@ -16,8 +16,6 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 5px solid black;
-  padding: 2px;
 }
 
 nav img {
