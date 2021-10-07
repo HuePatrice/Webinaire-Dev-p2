@@ -151,6 +151,8 @@ footer h2 {
   font-size: 14px;
 }
 
+/**************** Media Queries **************/
+
 @media screen and (max-width: 550px) {
   nav {
     flex-wrap: wrap;
