@@ -160,14 +160,11 @@ footer h2 {
 
   nav img {
     width: 100%;
+    height: auto;
   }
 
   #presentation-information,
   .footer-item {
     flex-direction: column;
-  }
-
-  #banner-img {
-    height: auto;
   }
 }
