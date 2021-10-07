@@ -105,6 +105,11 @@ h1 {
   margin-top: 40px;
 }
 
+#quote-author {
+  font-size: 14px;
+  font-style: italic;
+}
+
 /**************** Footer **************/
 
 footer {
